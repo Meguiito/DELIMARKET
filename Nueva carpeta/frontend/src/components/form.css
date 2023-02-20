@@ -1,0 +1,61 @@
+.form-group {
+    max-width: 600px;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #502C1E;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    color: #fff;
+  }
+  
+  .form-group form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form-group input[type="file"] {
+    margin-bottom: 10px;
+  }
+  
+  .form-group input[name="nfact"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+  }
+  
+  .form-group button[type="submit"] {
+    background-color: #FED800;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form-group button[type="submit"]:hover {
+    background-color: #FED800;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .form-group {
+      max-width: 90%;
+    }
+  }
+  .pepe {
+    background-color: #FED800;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .pepea{
+    color:#fff
+  }

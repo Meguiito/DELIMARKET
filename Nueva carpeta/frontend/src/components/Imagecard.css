@@ -1,0 +1,17 @@
+.download-button {
+    background-color: #502C1E !important;
+    color: #fff;
+  }
+  
+.deleteo-button {
+    background-color: #FED800 !important;
+  }
+.download-button:hover {
+    background-color: #502C1E;
+  }
+  
+.deleteo-button:hover {
+    background-color: #FED800;
+    color: #fff;
+  }
+

@@ -1,0 +1,21 @@
+.btn-pro {
+    border-radius: 10px;
+    background-color: #502C1E;
+    border-color: #502C1E;
+    color:#ffffff
+    
+  }
+
+.btn-pro2 {
+    border-radius: 10px;
+    background-color: #FED800;
+    color: #ffffff;
+    border-color: #FED800;
+  }
+.custom-btn{
+    border-radius: 5px;
+    background-color: #502C1E;
+    color: #ffffff;
+    border-color: #502C1E;
+
+  }

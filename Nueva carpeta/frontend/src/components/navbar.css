@@ -1,0 +1,37 @@
+.bg-custom {
+    background-color: #502C1E;
+  }
+
+.bg-custom .navbar-toggler-icon {
+    background-color: #FED800;
+  }
+  .bg-custom .navbar-toggler {
+    background-color: #FED800;
+    border-color: #502C1E;
+  }
+.navbar-toggler {
+    background-color: #FED800;
+  }
+
+.navbar-toggler-icon {
+    color: #FED800;
+  }
+
+  .offcanvas-header{
+    background-color: #502C1E;
+  }
+
+  .offcanvas-body{
+    background-color: #502C1E;
+    color:#fff
+  }
+  .nav-item{
+
+    color: azure;
+  }
+  .navbar-nav{
+    color:#fff
+  }
+  .nav-link{
+    color:#fff
+  }
